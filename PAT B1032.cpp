@@ -21,4 +21,4 @@ int main() {
 		}
 		printf("%d %d", k, max);
 		return 0;
-}
+} 
