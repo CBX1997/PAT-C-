@@ -21,9 +21,7 @@ void genrateP(int index)
 			genrateP(index + 1);
 			hashTable[x] = false;
 		}
-
 	}
-
 }
 int main()
 {
