@@ -13,7 +13,7 @@ int main() {
 			}
 		}
 		else if (temp % 5 == 1) {//A2
-			if (count[1] % 2 == 0) {
+			if (temp % 2 == 0) {
 				ans[1] += temp;
 			}
 			else {
